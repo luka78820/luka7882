@@ -1,0 +1,27 @@
+body {
+	background-image:url('https://weflix.fr/wp-content/uploads/2022/10/bateau-de-luffy-1.jpg');
+	background-repeat: no-repeat;
+	background-size: 1300px 600px;
+	}
+
+
+h1 {
+
+	color: #ff0000;
+
+	}
+
+
+h2 {
+
+	font-variant: small-caps;
+
+	color: #145369;
+
+	}
+
+
+strong {
+
+	background-color: #49be25;
+	}
